@@ -1,3 +1,12 @@
-Hello Friends 🌊,
+# Hello Friends 🌊,
 
-I'm Nunny Reyes. A Software Engineer, Climate Scientist, immigrant from New York City. 
+I'm Nunny Reyes. I live in New York City and I care about a lot of things.
+
+# About Me
+- I am a Flatiron School Fellowship Graduate   
+  with NYC Tech Talent Pipeline 🥳
+- Prior to coding I was a Climate Scientist 🌍
+- I am a first generation, queer, immigrant 🌈
+- I am looking for my first SWE Role 👀
+- Pronouns: she/her/they/them 
+
