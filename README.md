@@ -10,3 +10,6 @@ I'm Nunny Reyes. I live in New York City and I care about a lot of things.
 - 🌈 Pronouns: she/her/they/them 
 
 # Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunnyr)](https://github.com/nunnyr/github-readme-stats)
+
