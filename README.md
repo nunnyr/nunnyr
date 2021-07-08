@@ -10,7 +10,7 @@ I'm Nunny Reyes. I live in New York City and I care about a lot of things.
 - 🎭  Fun fact: I inspired an SNL Skit Series based on my name.
 - 🌈  Pronouns: she/her/they/them 
 
-## Fun Places - follow me here
+## Fun Places - Follow Me Here
 <a href="https://www.linkedin.com/in/nunny-r/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin%22%20alt=%22LinkedIn%22" alt="LinkedIn"></a>
 	<a href="https://nunnyreyes.medium.com/"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=Medium" alt="Medium"></a>
 
