@@ -7,7 +7,6 @@ I'm Nunny Reyes. I live in New York City and I care about a lot of things.
 - 🥳  I am a Flatiron School Fellowship Graduate with NYC Tech Talent Pipeline. 
 - 🌍  Prior to coding I was a Climate Scientist. 
 - 🧗🏻‍♀️  I love to climb + take photographs 📸
-- 🎭  Fun fact: I inspired an SNL Skit Series based on my name.
 
 
 ## Fun Places - Follow Me Here
