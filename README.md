@@ -3,7 +3,7 @@
 I'm Nunny Reyes. I live in New York City and I care about a lot of things.
 
 # About Me
-- 🔥  Software Engineer, making and breaking things with code.
+- 🐛  Software Engineer, making and breaking things with code.
 - 🥳  I am a Flatiron School Fellowship Graduate with NYC Tech Talent Pipeline. 
 - 🌍  Prior to coding I was a Climate Scientist. 
 - 🧗🏻‍♀️  I love to climb + take photographs 📸
